@@ -1,6 +1,6 @@
-; Easy use of SuperMemo with only one hand (reps / grading / priorities) 
+; Easy use of SuperMemo with only one hand (reps / grading / priorities / cloze / extract / back and forward) 
 
-; Backtick Button (beneath Esc) is remapped to Enter
+; Backtick Button (beneath Esc) =  Enter
 ; Tab + q/w/e/r sets priorities
 ; Tab + a = extract
 ; Tab + z = cloze
