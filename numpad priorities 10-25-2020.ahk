@@ -9,6 +9,12 @@ CoordMode, Mouse, Screen
 #SingleInstance, force
 SetTitleMatchMode,2
 
+GroupAdd, SuperMemo, ahk_class TBrowser ;Browser
+GroupAdd, SuperMemo, ahk_class TContents ;Content Window (Knowledge Tree)
+GroupAdd, SuperMemo, ahk_class TElWind ;Element window
+GroupAdd, SuperMemo, ahk_class TSMMain ;Toolbar
+
+#IfWinActive ahk_group SuperMemo
 Numpad0::
 {
 send, !p
