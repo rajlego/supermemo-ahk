@@ -1,5 +1,5 @@
 ;made by Naess from supermemo.wiki discord server, deep gratitude to him!
-;this script makes it so that 1-9 keys on numpad correspond to different priorities, for more details check out https://cdn.discordapp.com/attachments/673071774438522907/763889205309997056/unknown.png
+;this script makes it so that 1-9 keys on numpad correspond to different priorities, for more details check out https://github.com/rajlego/supermemo-ahk/blob/main/naess%20priorities%2010-25-2020.png?raw=true
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
