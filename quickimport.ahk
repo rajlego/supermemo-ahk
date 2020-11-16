@@ -1,3 +1,5 @@
+;must have parse article bookmarklet from https://articleparser.win as your first bookmarklet
+
 ;uses copypaste import to import quickly while browsing in chrome / edge. Also adds url references.
 ;must have supermemo open in the background (easy to always leave it open)
 ;by TheTrueSquidward
