@@ -13,8 +13,6 @@ LegacyBrowsers := "IEFrame,OperaWindowClass"
 	sURL := GetActiveBrowserURL()
 	WinGetClass, sClass, A
 	If (sURL != "")
-		;MsgBox, % "The URL is """ sURL """`nEllapsed time: " (A_TickCount - nTime) " ms (" sClass ")"
-		baseurl := "https://articleparser.win/article?url="
 		send !D 
 		sleep, 200
 		send ^c
