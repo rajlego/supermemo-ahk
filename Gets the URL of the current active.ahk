@@ -1,9 +1,7 @@
 ; AutoHotkey Version: AutoHotkey 1.1
-; Language:           English
-; Platform:           Win7 SP1 / Win8.1 / Win10
-; Author:             Antonio Bueno <user atnbueno of Google's popular e-mail service>
-; Short description:  Gets the URL of the current (active) browser tab for most modern browsers
-; Last Mod:           2016-05-19
+; Author:             Guillem Palau, Adapted from Antonio Bueno <user atnbueno of Google's popular e-mail service>
+
+
 
 Menu, Tray, Icon, % A_WinDir "\system32\netshell.dll", 86 ; Shows a world icon in the system tray
 
